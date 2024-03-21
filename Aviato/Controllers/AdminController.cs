@@ -7,5 +7,9 @@ namespace Aviato.Controllers
         {
             return View();
         }
+        public IActionResult Add_Product()
+        {
+            return View();
+        }
     }
 }
